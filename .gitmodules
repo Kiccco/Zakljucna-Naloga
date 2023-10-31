@@ -1,0 +1,6 @@
+[submodule "projekt-frontend"]
+	path = projekt-frontend
+	url = https://github.com/Kiccco/projekt-frontend
+[submodule "projekt-backend"]
+	path = projekt-backend
+	url = https://github.com/Kiccco/projekt-backend
